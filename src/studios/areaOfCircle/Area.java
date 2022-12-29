@@ -1,4 +1,4 @@
-package studios.areaofacircle;
+package studios.areaOfCircle;
 import java.util.Scanner;
 
 public class Area {
