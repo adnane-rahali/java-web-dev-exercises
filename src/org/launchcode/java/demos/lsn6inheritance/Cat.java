@@ -13,6 +13,8 @@ public class Cat {
         weight = aWeight;
     }
 
+    public Cat(){}
+
     /**** Getters and Setters ****/
 
     public boolean isTired() {
